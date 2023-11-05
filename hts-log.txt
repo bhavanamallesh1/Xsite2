@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 05 Nov 2023 19:12:32 at https://xsite.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://xsite.com/ -O1 "C:\Users\Mallesh\Desktop\Xsite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:13:52	Error: 	"Unknown error" (520) at link https://xsite.com/xmlrpc.php?rsd (from https://xsite.com/)
+19:14:30	Warning: 	Link https://xsite.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+19:14:30	Error: 	"Not Found" (404) at link https://xsite.com/POST (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+19:14:30	Error: 	"Not Found" (404) at link https://xsite.com/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+19:14:30	Error: 	"Not Found" (404) at link https://xsite.com/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+19:14:30	Error: 	"Not Found" (404) at link https://xsite.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+19:14:30	Warning: 	Moved Permanently for https://xsite.com/?p=912
+19:14:30	Warning: 	File has moved from https://xsite.com/?p=912 to https://xsite.com/about-us/
+19:14:30	Warning: 	Moved Permanently for https://xsite.com/?p=945
+19:14:30	Warning: 	File has moved from https://xsite.com/?p=945 to https://xsite.com/blog/
+19:14:46	Warning: 	Link https://xsite.com/blog/2/ not scanned (follow robots meta tag)
+19:14:46	Warning: 	Moved Permanently for https://xsite.com/?p=990
+19:14:46	Warning: 	File has moved from https://xsite.com/?p=990 to https://xsite.com/privacy-policy/
+19:14:46	Warning: 	Moved Permanently for https://xsite.com/?p=2475
+19:14:46	Warning: 	File has moved from https://xsite.com/?p=2475 to https://xsite.com/unlocking-visitor-engagement-the-waterford-ar-story-trail/
+19:14:46	Warning: 	Moved Permanently for https://xsite.com/?p=2376
+19:14:46	Warning: 	File has moved from https://xsite.com/?p=2376 to https://xsite.com/best-practices-for-creating-ar-experiences-in-heritage-sites/
+19:14:46	Warning: 	Moved Permanently for https://xsite.com/?p=2374
+19:14:46	Warning: 	File has moved from https://xsite.com/?p=2374 to https://xsite.com/augmenting-heritage-the-power-of-ar-in-enhancing-memorable-tourism-experiences/
+19:14:46	Warning: 	Moved Permanently for https://xsite.com/?p=2372
+19:14:46	Warning: 	File has moved from https://xsite.com/?p=2372 to https://xsite.com/building-an-ar-experience-a-step-by-step-guide/
+19:14:46	Warning: 	Moved Permanently for https://xsite.com/?p=2370
+19:14:46	Warning: 	File has moved from https://xsite.com/?p=2370 to https://xsite.com/site-management-best-practices-for-implementing-ar-tours/
+19:14:46	Warning: 	Moved Permanently for https://xsite.com/?p=2368
+19:14:46	Warning: 	File has moved from https://xsite.com/?p=2368 to https://xsite.com/benefits-of-integrating-ar-experiences-in-tourist-sites/
+19:14:46	Warning: 	Moved Permanently for https://xsite.com/?p=2346
+19:14:46	Warning: 	File has moved from https://xsite.com/?p=2346 to https://xsite.com/increasing-visitor-traffic-the-role-of-innovative-tech-like-ar/
+19:14:46	Warning: 	Moved Permanently for https://xsite.com/?p=2362
+19:14:46	Warning: 	File has moved from https://xsite.com/?p=2362 to https://xsite.com/building-visitor-engagement-through-interactive-experiences/
+19:14:46	Warning: 	Moved Permanently for https://xsite.com/?p=2364
+19:14:46	Warning: 	File has moved from https://xsite.com/?p=2364 to https://xsite.com/the-future-of-tourism-augmented-reality-ai/
+19:14:46	Warning: 	Moved Permanently for https://xsite.com/?p=2366
+19:14:46	Warning: 	File has moved from https://xsite.com/?p=2366 to https://xsite.com/how-ar-transforms-visitor-experiences-at-historical-sites/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 15 seconds : 210 links scanned, 191 files written (25119570 bytes overall) [20830332 bytes received at 154298 bytes/sec], 7159511 bytes transferred using HTTP compression in 146 files, ratio 32%, 26.5 requests per connection
+(5 errors, 28 warnings, 0 messages)
